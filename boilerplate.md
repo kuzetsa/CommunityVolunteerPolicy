@@ -11,7 +11,7 @@ Our expectation is that everyone on this server participates in moderation. Show
 This is what it means when we say the server is self-moderating and volunteer run.  
   
 The current roles on the server are:  
-Welcomers (Open Enrollment) • Peer Reviewers (Open Enrollment) • Administrators (Closed)  
+{roles placeholder}
   
 "Welcomers" is a generally minimal commitment role with the following responsibilities:  
 - Follow the introduce-yourself channel .  
