@@ -13,14 +13,16 @@ This is what it means when we say the server is self-moderating and volunteer ru
 The current roles on the server are:  
 {roles placeholder}
   
-"Welcomers" is a generally minimal commitment role with the following responsibilities:  
+## "Welcomers"
+The duties for welcomers are minimal, with the following responsibilities:  
 - Follow the introduce-yourself channel .  
 - Welcome new members to the server.  
 - Assign the "Server Members" role after the new members introduce themselves.  
 - Direct new members to channels/resources that may be relevant to them.  
 - You will receive additional pings when you have this role.  
 
-"Administrators" is a heavy commitment role with the following responsibilities:  
+## "Administrators"
+The duties for administrators are require a heavier commitment, with the following responsibilities:  
 - Define and clarify the scope of the server. This includes working to strike a balance between community feedback and practical concerns for the {community}.  
 - Maintain the rules of the server. As rules need to be adjusted to better align the server within its defined scope, consult with the community to clarify what needs are not being met or could be better addressed.  
 - In cases where one of the other roles is potentially being abused, re-establish role expectations and work with the administrator team to heal any harm done.  
@@ -29,10 +31,13 @@ The current roles on the server are:
 - Manage channels, bots, {community resources}, etc.  
 - You will receive additional pings when you have this role.  
   
-"Administrators" role does not include:  
+### [Special note about: "Administrators"]
+~ the administrators role [**does not**] include:  
 - Exceptions to the rules. Administrators are held to the same standard as anyone else. Rules may be adapted in situations where the administrator's actions are otherwise in accord with the scope of the server and simple clarification is necessary.  
 - Being a first-line responder. Generally speaking, allowing the community to de-escalate and self-mediate will be ideal in all but the most extreme cases.  
   
 "Administrators" may take on or forfeit additional roles on the server as time and energy allows. This role is largely a behind the scenes one.  
+
+---
   
 If you would like to volunteer for one of these roles, or if you have questions or concerns regarding them, please be active on the server for a minimum of two weeks and contact us by direct messaging @ModMail (top of the server member list). Additional roles will be added later. Cheers!
