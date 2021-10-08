@@ -39,5 +39,6 @@ The duties for administrators are require a heavier commitment, with the followi
 "Administrators" may take on or forfeit additional roles on the server as time and energy allows. This role is largely a behind the scenes one.  
 
 ---
-  
-If you would like to volunteer for one of these roles, or if you have questions or concerns regarding them, please be active on the server for a minimum of two weeks and contact us by direct messaging @ModMail (top of the server member list). Additional roles will be added later. Cheers!
+
+This document is a "first" draft
+*(posting for review)*
