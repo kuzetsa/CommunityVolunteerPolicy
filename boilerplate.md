@@ -1,4 +1,4 @@
-Volunteer information was last updated 9/8/2021  
+Volunteer information was last updated Friday, 8th of October 2021
   
 This server is self-moderating and volunteer run. What does that mean in practice?  
   
