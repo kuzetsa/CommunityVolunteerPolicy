@@ -19,14 +19,7 @@ The current roles on the server are:
 - Assign the "Server Members" role after the new members introduce themselves.  
 - Direct new members to channels/resources that may be relevant to them.  
 - You will receive additional pings when you have this role.  
-  
-"Peer Reviwers" is a mild commitment role with the following responsibilities:  
-- Follow the clips-and-feedback channel.  
-- Open threads for feedback requests as they arise.  
-- Provide feedback to clips as you are able to do so.  
-- Offer mild redirection when requests fall outside of the server rules. This includes but is not limited to: demands for emotional and material labor from others, applied value judgments to aspects of human development and health and venting.  
-- You will receive additional pings when you have this role.  
-  
+
 "Administrators" is a heavy commitment role with the following responsibilities:  
 - Define and clarify the scope of the server. This includes working to strike a balance between community feedback and practical concerns for the {community}.  
 - Maintain the rules of the server. As rules need to be adjusted to better align the server within its defined scope, consult with the community to clarify what needs are not being met or could be better addressed.  
